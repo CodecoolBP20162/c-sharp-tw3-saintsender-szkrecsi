@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using AE.Net.Mail;
+using System.Collections.Generic;
 
 namespace EmailApp
 {
@@ -14,14 +15,17 @@ namespace EmailApp
 
         private void getMessages() {
 
-            string userName = "ycarecoder@gmail.com";
-            string password = "codecool";
-            ImapClient iclient = new ImapClient("imap.gmail.com", userName, password, AuthMethods.Login, 993, true);
+            string accessFile = @"self.txt";
+            EmailClass access = new EmailClass();
+            List<string> accessList = access.AccessReader(accessFile);
+            string username = accessList[0];
+            string password = accessList[1];
 
+            ImapClient iclient = new ImapClient("imap.gmail.com", username, password, AuthMethods.Login, 993, true);
             iclient.SelectMailbox("inbox");
-            MessageBox.Show(iclient.GetMessageCount().ToString());
-
+   
             MailMessage[] messages = iclient.GetMessages(0, 9, false);
+            Array.Reverse(messages);
             int i = 0;
             string fileName = @"emailfile.dat";
             foreach (MailMessage message in messages)

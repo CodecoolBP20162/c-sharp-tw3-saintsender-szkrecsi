@@ -10,3 +10,15 @@ C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-
 C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\ProbaEmail\obj\Debug\EmailApp.csprojResolveAssemblyReference.cache
 C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\ProbaEmail\bin\Debug\AE.Net.Mail.dll
 C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\ProbaEmail\bin\Debug\AE.Net.Mail.pdb
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Debug\EmailApp.exe.config
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Debug\EmailApp.exe
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Debug\EmailApp.pdb
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Debug\AE.Net.Mail.dll
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Debug\AE.Net.Mail.pdb
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Debug\EmailApp.Form1.resources
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Debug\EmailApp.Form2.resources
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Debug\EmailApp.Properties.Resources.resources
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Debug\EmailApp.csproj.GenerateResource.Cache
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Debug\EmailApp.exe
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Debug\EmailApp.pdb
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Debug\EmailApp.csprojResolveAssemblyReference.cache

@@ -9,3 +9,15 @@ C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-
 C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\ProbaEmail\obj\Release\EmailApp.csproj.GenerateResource.Cache
 C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\ProbaEmail\obj\Release\EmailApp.exe
 C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\ProbaEmail\obj\Release\EmailApp.pdb
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Release\EmailApp.exe.config
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Release\EmailApp.exe
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Release\EmailApp.pdb
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Release\AE.Net.Mail.dll
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\bin\Release\AE.Net.Mail.pdb
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Release\EmailApp.csprojResolveAssemblyReference.cache
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Release\EmailApp.Form1.resources
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Release\EmailApp.Form2.resources
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Release\EmailApp.Properties.Resources.resources
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Release\EmailApp.csproj.GenerateResource.Cache
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Release\EmailApp.exe
+C:\Users\szkrecsi\Documents\Visual Studio 2017\Projects\c-sharp-tw3-saintsender-szkrecsi\EmailApp\obj\Release\EmailApp.pdb

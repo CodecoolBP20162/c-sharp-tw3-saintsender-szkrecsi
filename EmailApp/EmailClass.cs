@@ -17,6 +17,8 @@ namespace EmailApp
         public string EmailMessage { get; set; }
         public string EmailDate { get; set; }
 
+        public EmailClass() {}
+
         public EmailClass(string emailFrom, string emailSubject, string emailMessage, string emailDate) {
             EmailFrom = emailFrom;
             EmailSubject = emailSubject;
@@ -31,5 +33,21 @@ namespace EmailApp
             formatter.Serialize(file, this);
             file.Close();
         }
+
+        public List<string> AccessReader(string fileName)
+        {
+            StreamReader file = new StreamReader(fileName);
+            int counter = 0;
+            string line;
+            List<string> accessList = new List<string>();
+            while ((line = file.ReadLine()) != null)
+            {
+                accessList.Add(line);
+                counter++;
+            }
+            file.Close();
+            return accessList;
+        }
     }
 }
+
